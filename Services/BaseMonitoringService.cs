@@ -2,7 +2,7 @@ using System.Threading.Tasks;
 using BoticordNet.Types;
 using BoticordNet.Types.Interfaces;
 using BoticordNet.Types.Monitoring;
-using BaseRate = System.Collections.Generic.Dictionary<ulong, SDC_Sharp.Types.Enums.Rate>;
+using BaseRate = System.Collections.Generic.Dictionary<ulong, Boticord.Net.Types.Enums.Rate>;
 
 namespace Boticord.Net.Services
 {
