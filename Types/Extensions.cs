@@ -1,5 +1,5 @@
 using System.Runtime.CompilerServices;
-using SDC_Sharp.Types.Enums;
+using Boticord.Net.Types.Enums;
 
 namespace Boticord.Net.Types
 {
