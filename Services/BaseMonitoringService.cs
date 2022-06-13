@@ -4,7 +4,7 @@ using BoticordNet.Types.Interfaces;
 using BoticordNet.Types.Monitoring;
 using BaseRate = System.Collections.Generic.Dictionary<ulong, SDC_Sharp.Types.Enums.Rate>;
 
-namespace SDC_Sharp.Services
+namespace Boticord.Net.Services
 {
     public class BaseMonitoringService : BaseService
     {
